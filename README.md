@@ -1,5 +1,3 @@
-Hi there 👋
-
 # kothariji
 ![GitHub Logo](https://github.com/kothariji/kothariji/blob/master/banner.JPG)
 
