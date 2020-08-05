@@ -8,6 +8,7 @@
 🙌 I am **sub 50 CUBER**, a **philatelist** and **numismatist** 💷 💰.<br />
 
  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=kothariji.visitor-badge)](https://github.com/kothariji)
+ [Statistics]https://github-readme-stats.vercel.app/api?username=kothariji&show_icons=true&hide_border=true
  
 ### 🤝connect me on Linkedin - https://www.linkedin.com/in/kotharidhruv/
 ### 📩 Mail - kotharidhruv25@gmail.com
