@@ -8,8 +8,7 @@
 🙌 I am **sub 50 CUBER**, a **philatelist** and **numismatist** 💷 💰.<br />
 
  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=kothariji.visitor-badge)](https://github.com/kothariji)
- 
- ![Kothariji's github stats](https://github-readme-stats.vercel.app/api?username=kothariji&show_icons=true&theme=highcontrast&align=right)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kothariji.visitor-badge) 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kothariji&show_icons=true&hide_border=true)
  
