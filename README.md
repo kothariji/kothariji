@@ -7,8 +7,6 @@
 📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
 🙌 I am **sub 50 CUBER**, a **philatelist** and **numismatist** 💷 💰.<br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kothariji.visitor-badge) 
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=kothariji&show_icons=true&hide_border=true)
  
 ### 🤝connect me on Linkedin - https://www.linkedin.com/in/kotharidhruv/
