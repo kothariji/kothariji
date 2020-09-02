@@ -11,3 +11,13 @@
  
 ### 🤝connect me on Linkedin - https://www.linkedin.com/in/kotharidhruv/
 ### 📩 Mail - kotharidhruv25@gmail.com
+
+<a href="https://leetcode.com/kothariji/">
+  <img align="left" alt="Dhruv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/kothariji">
+  <img align="left" alt="kothariji's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://codeforces.com/profile/kothariji">
+  <img align="left" alt="kothariji's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
