@@ -16,6 +16,9 @@
 ![Badge](https://cp-logo.vercel.app/codechef/kothariji)
 (https://www.codechef.com/users/kothariji)
 
+![Badge](https://cp-logo.vercel.app/codeforces/kothariji)
+
+
 <a href="https://leetcode.com/kothariji/">
   <img align="left" alt="Dhruv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
