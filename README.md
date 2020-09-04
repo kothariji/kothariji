@@ -13,7 +13,7 @@
 ### 📩 Mail - kotharidhruv25@gmail.com
 
 
-[![Badge](https://cp-logo.vercel.app/codechef/kothariji)]
+![Badge](https://cp-logo.vercel.app/codechef/kothariji)
 (https://www.codechef.com/users/kothariji)
 
 <a href="https://leetcode.com/kothariji/">
