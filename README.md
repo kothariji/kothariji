@@ -7,14 +7,14 @@
 📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
 🙌 I am **sub 50 CUBER**, a **philatelist** and **numismatist** 💷 💰.<br />
 
+
+![Badge](https://cp-logo.vercel.app/codechef/kothariji)
+![Badge](https://cp-logo.vercel.app/codeforces/kothariji)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=kothariji&show_icons=true&hide_border=true)
  
 ### 🤝connect me on Linkedin - https://www.linkedin.com/in/kotharidhruv/
 ### 📩 Mail - kotharidhruv25@gmail.com
-
-
-![Badge](https://cp-logo.vercel.app/codechef/kothariji)
-![Badge](https://cp-logo.vercel.app/codeforces/kothariji)
 
 
 <a href="https://leetcode.com/kothariji/">
