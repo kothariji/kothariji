@@ -14,8 +14,6 @@
 
 
 ![Badge](https://cp-logo.vercel.app/codechef/kothariji)
-(https://www.codechef.com/users/kothariji)
-
 ![Badge](https://cp-logo.vercel.app/codeforces/kothariji)
 
 
