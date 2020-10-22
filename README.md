@@ -8,8 +8,8 @@
 🙌 I am **sub 50 CUBER**, a **philatelist** and **numismatist** 💷 💰.<br />
 
 
-![Badge](https://cp-logo.vercel.app/codechef/kothariji)(https://www.codechef.com/users/kothariji)
-![Badge](https://cp-logo.vercel.app/codeforces/kothariji)(https://codeforces.com/profile/kothariji)
+[![Badge](https://cp-logo.vercel.app/codechef/kothariji)](https://www.codechef.com/users/kothariji)
+[![Badge](https://cp-logo.vercel.app/codeforces/kothariji)](https://codeforces.com/profile/kothariji)
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kothariji&layout=compact&hide=html" alt="kothariji" />
