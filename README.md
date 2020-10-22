@@ -17,7 +17,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=kothariji&show_icons=true&hide_border=true)
  
  ----
-### 🤝connect me on Linkedin - https://www.linkedin.com/in/kotharidhruv/
 ### 📩 Mail - kotharidhruv25@gmail.com
 
 
@@ -31,7 +30,6 @@
   <img align="left" alt="kothariji's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 
----
 ## Connect with me  
 <div align="center">
  <a href="https://www.linkedin.com/in/kotharidhruv/" target="_blank">
