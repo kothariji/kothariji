@@ -1,5 +1,5 @@
 # kothariji
-![GitHub Logo](https://github.com/kothariji/kothariji/blob/master/banner.JPG)
+![GitHub Logo](https://github.com/kothariji/kothariji/blob/master/dhruv%20github%20banner.png)
 
 👨‍🎓I am Dhruv Kothari, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 💻I am a **full-stack web developer** as well as an 📱**UI / UX** enthusiast.<br />
