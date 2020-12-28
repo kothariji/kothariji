@@ -11,7 +11,6 @@
 [![Badge](https://cp-logo.vercel.app/codechef/kothariji)](https://www.codechef.com/users/kothariji)
 [![Badge](https://cp-logo.vercel.app/codeforces/kothariji)](https://codeforces.com/profile/kothariji)
 ---
-![kothariji badge](https://github-profile-trophy.vercel.app/?username=kothariji)
 
 |<img src="https://github-readme-stats.vercel.app/api?username=kothariji&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kothariji"/>|
 |---|---|
