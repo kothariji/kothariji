@@ -46,8 +46,11 @@
 </a>
 </div>
 
-
-  ![GitHub metrics](https://metrics.lecoq.io/kothariji?pagespeed=1&languages=1&followup=1&isocalendar=1&pagespeed.detailed=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+<p align="center">
+  <a href='https://github.com/kothariji/'>
+    <img width="75%" src="https://github.com/kothariji/kothariji/blob/master/kotharijimatrics.svg"/>
+  </a>
+</p>
 
 
 
