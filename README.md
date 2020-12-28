@@ -44,4 +44,10 @@
 <a href="https://instagram.com/junior.kothari" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>
+
+
+  ![GitHub metrics](https://metrics.lecoq.io/kothariji?pagespeed=1&languages=1&followup=1&isocalendar=1&pagespeed.detailed=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+
+
+
