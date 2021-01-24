@@ -45,8 +45,4 @@
 </a>
 </div>
 
-<p align="center">
-  <a href='https://github.com/kothariji/'>
-    <img width="75%" src="https://metrics.lecoq.io/kothariji?template=classic&followup=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta&config.animated=true"/>
-  </a>
-</p>
+
