@@ -12,7 +12,7 @@
 [![Badge](https://cp-logo.vercel.app/codeforces/kothariji)](https://codeforces.com/profile/kothariji)
 ---
 
-|<img src="https://github-readme-stats.vercel.app/api?username=kothariji&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kothariji"/>|
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12383316)](https://stackoverflow.com/users/12383316/dhruv-kothari) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=kothariji"/>|
 |---|---|
  
  ---
