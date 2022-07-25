@@ -1,5 +1,5 @@
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Dhruv Kothari](https://github.com/kothariji) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
-![GitHub Logo](https://github.com/kothariji/kothariji/blob/master/dhruv%20github%20banner.png)
+![GitHub Logo](https://github.com/kothariji/kothariji/blob/master/dhruv%20github%20banner-min.jpeg)
 
 👨‍🎓I am Dhruv Kothari, currently working as a **Software Engineer** at **Upraised**. <br />
 💻I am a **full-stack web developer** as well as an 📱**UI / UX** enthusiast.<br />
