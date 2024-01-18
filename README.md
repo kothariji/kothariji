@@ -1,15 +1,10 @@
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Dhruv Kothari](https://github.com/kothariji) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 ![GitHub Logo](https://github.com/kothariji/kothariji/blob/master/dhruv%20github%20banner-min.jpeg)
 
-👨‍🎓I am Dhruv Kothari, currently working as a **Software Engineer** at **Upraised**. <br />
-💻I am a **full-stack web developer** as well as an 📱**UI / UX** enthusiast.<br />
-🏆🥇I love **competitive programming**. I am **3-star⭐️** coder at Codechef.<br />
-📝✏️I write tech affiliated articles on **Medium and GeeksForGeeks.** <br />
-🙌 I am **sub 50 CUBER**, a **philatelist** and **numismatist** 💷 💰.<br />
+👨‍🎓I am Dhruv Kothari, a passionate software engineer with 2 years of industry experience crafting captivating web experiences. My expertise lies in React, Javascript, UX/UI design, web performance optimization, and building complex front-ends, including robust Design Systems. I've also ventured into mobile development with React Native. Beyond coding, I excel at web design, and crafting stunning landing pages and components with Figma. As a technical writer, I've penned articles on competitive programming, web development, and the developer lifestyle. My competitive spirit shines through my victories in inter-college coding events and strong performance in global coding challenges. Let's collaborate and build something amazing! ✨
 
 
 [![Badge](https://cp-logo.vercel.app/codechef/kothariji)](https://www.codechef.com/users/kothariji)
-[![Badge](https://cp-logo.vercel.app/codeforces/kothariji)](https://codeforces.com/profile/kothariji)
 ---
 
 |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12383316)](https://stackoverflow.com/users/12383316/dhruv-kothari) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=kothariji"/>|
