@@ -3,9 +3,7 @@
 
 👨‍💻 I'm a passionate software engineer with 2 years of industry experience crafting captivating web experiences.
 
-⚒️ My expertise lies in React, Javascript, UX/UI design, web performance optimization, and building complex front-ends, including robust Design Systems.
-
-I've also ventured into mobile development with React Native.
+⚒️ My expertise lies in React, Javascript, UX/UI design, web performance optimization, and building complex front-ends, including robust Design Systems. I've also ventured into mobile development with React Native.
 
 🖌️ Beyond coding, I excel at web design, crafting stunning landing pages and components with Figma.
 
