@@ -1,14 +1,10 @@
 ![Dhruv Kothari, software engineer with a designer’s eye. Minimal by default, curious by habit. Has worked for Postman, Zomato, Upraised, ScaleReal and Outfindr.](./banner.png)
 
-I build for the web, mostly the front of it. Design systems, analytics dashboards,
-and the small details nobody asked for.
+I'm a senior software engineer with 3+ years of experience crafting robust, scalable web experiences across frontend and full-stack roles. My core expertise lies in React, TypeScript, Node.js, Django, and building high-performance, accessible UIs. I've led the architecture of complex systems like analytics dashboards, onboarding flows, design systems, and AI-driven support interfaces.
 
-Software engineer at **Postman**. Before that **Zomato**, where I led the frontend
-of a customer support platform and built the shift and attendance tooling behind
-3,000+ agents. Before that **Upraised**, where I joined as an intern and left
-having built the design system.
+I’m passionate about user experience, design thinking, and performance-first development. I enjoy pushing pixels in Figma, building stunning landing pages, and developing reusable component libraries. I’ve also worked on mobile apps using React Native and published open-source tools to streamline development.
 
-Most of what I know I learned by building it badly the first time.
+Outside of product engineering, I’ve contributed as a tech speaker and technical writer, covering topics in web engineering, competitive programming, and developer growth. From mentoring engineers to winning inter-college coding competitions, I love building and learning in public. Let’s connect and build delightful digital experiences together!
 
 ### A few things I made
 
