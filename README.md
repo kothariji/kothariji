@@ -20,4 +20,5 @@ Outside of product engineering, I’ve contributed as a tech speaker and technic
 [Talks](https://kothariji.in/talks) ·
 [LinkedIn](https://www.linkedin.com/in/kotharidhruv/) ·
 [X](https://x.com/_kothariji) ·
-[Topmate](https://topmate.io/kothariji)
+[Topmate](https://topmate.io/kothariji) ·
+[hello@kothariji.in](mailto:hello@kothariji.in)
